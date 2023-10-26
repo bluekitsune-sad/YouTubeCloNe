@@ -106,6 +106,6 @@ Let's Connect! 🌐
 
 Got questions or just want to say hello? Reach out to me:
 
-  Email: [!get in touch](mailto:saadshaan619@gmail.com
-
+- 📧 Email: [get in touch](mailto:saadshaan619@gmail.com)
+  
 I can't wait to collaborate with you. Happy coding! 🎈
