@@ -6,18 +6,16 @@ Thanks for dropping by our project. I'am thrilled to have you here! 🎉
 
 ## What is This Project All About? 🤔
 
-This project is your one-stop solution for this is a YoutubeClone made with Simple HTML, CSS and a very little JavaScript this is with touchable thumbnails and playing videos.. Whether you're a developer, designer, or just curious, we've got something for you! ✨
+This project is your one-stop solution for this is a YoutubeClone made with Simple HTML, CSS and a very little JavaScript this is with touchable thumbnails and playing videos.. Whether you're a developer, designer, or just curious, I've got something for you! ✨
 
 **here is a live demo**
 <a href="https://clone-2c853.web.app/">Click here</a>
 
 ## How Can You Contribute? 🚀
 
-We're always on the lookout for contributors who are as passionate about [mention your project's mission] as we are! Here's how you can help:
-
-- 💡 **Feature Requests:** Have a brilliant idea? Share it with us! We love new ideas.
-- 🐛 **Bug Reports:** Spotted a pesky bug? Let us know so we can squash it.
-- 🤝 **Pull Requests:** Feeling adventurous? Contribute to our project by sending a pull request.
+- 💡 **Feature Requests:** Have a brilliant idea? Share it with me! I love new ideas.
+- 🐛 **Bug Reports:** Spotted a pesky bug? Let me know so I can squash it.
+- 🤝 **Pull Requests:** Feeling adventurous? Contribute to my project by sending a pull request.
 Certainly! To guide users on how to fork and use your project, you can add a section like this to your README:
 
 ## Getting Started with Contributions 🛠️
